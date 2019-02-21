@@ -1,0 +1,26 @@
+footer{
+	padding: 20px;
+	clear: both;
+	background-color: #cfd8dc;
+}
+a{
+	padding: 20px;
+}
+.contact-title{
+	
+	color:rgb(14, 21, 124);
+}
+.footer1{
+	width: 30%;
+	border: red;
+	float: left;
+}
+.footer2{
+	border:red;
+	/* float: left;
+	width: 30%; */
+}
+.footer-container{
+
+	background-color: #eceff1;
+}

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+.about{
+    padding: 60px 20px 60px 30px;  
+    background-color: #f0e47c;
+    overflow: hidden;
+}
+.about-heading , h3{
+     
+    font-family:  "Montserrat", sans-serif;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    font-size: 30px !important;
+    
+}
+.about-text{
+    font-size: 22px;
+    line-height: 40px;
+    font-family:  "Montserrat";
+}
+
+.about-me p{
+    padding-right: 20px;
+}
+.about-skill ul li{
+    
+    display: block;
+    padding-right: 40px;
+    float: left;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+.about-skill h3{
+    clear: both;
+    /* font-family: "Montserrat", sans-serif; */
+    padding-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.about-skill{
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 20px;
+}
