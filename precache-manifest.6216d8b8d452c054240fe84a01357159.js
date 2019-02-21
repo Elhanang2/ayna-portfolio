@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/ayna-portfolio/static/media/Roboto-Regular.2751ee43.woff2"
+    "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
+    "url": "/ayna-portfolio/static/media/Roboto-Medium.4d9f3f9e.eot"
   },
   {
     "revision": "3e10b3afd2f91f59f871",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/ayna-portfolio/static/js/2.9c679077.chunk.js"
   },
   {
+    "revision": "a990f611f2305dc12965f186c2ef2690",
+    "url": "/ayna-portfolio/static/media/Roboto-Light.a990f611.eot"
+  },
+  {
     "revision": "dfe56a876d0282555d1e2458e278060f",
     "url": "/ayna-portfolio/static/media/Roboto-Thin.dfe56a87.eot"
   },
@@ -32,16 +36,12 @@ self.__precacheManifest = [
     "url": "/ayna-portfolio/static/media/Roboto-Thin.7500519d.woff"
   },
   {
-    "revision": "a990f611f2305dc12965f186c2ef2690",
-    "url": "/ayna-portfolio/static/media/Roboto-Light.a990f611.eot"
+    "revision": "69f8a0617ac472f78e45841323a3df9e",
+    "url": "/ayna-portfolio/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
     "url": "/ayna-portfolio/static/media/Roboto-Light.3b813c2a.woff"
-  },
-  {
-    "revision": "69f8a0617ac472f78e45841323a3df9e",
-    "url": "/ayna-portfolio/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "94998475f6aea65f558494802416c1cf",
@@ -56,36 +56,32 @@ self.__precacheManifest = [
     "url": "/ayna-portfolio/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
-    "url": "/ayna-portfolio/static/media/Roboto-Regular.ba3dcd89.woff"
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/ayna-portfolio/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
     "revision": "3e10b3afd2f91f59f871",
     "url": "/ayna-portfolio/static/js/main.3e10b3af.chunk.js"
   },
   {
-    "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
-    "url": "/ayna-portfolio/static/media/Roboto-Medium.4d9f3f9e.eot"
-  },
-  {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/ayna-portfolio/static/media/Roboto-Regular.df7b648c.ttf"
-  },
-  {
-    "revision": "574fd0b50367f886d359e8264938fc37",
-    "url": "/ayna-portfolio/static/media/Roboto-Medium.574fd0b5.woff2"
+    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
+    "url": "/ayna-portfolio/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/ayna-portfolio/static/media/Roboto-Medium.fc78759e.woff"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/ayna-portfolio/static/media/Roboto-Medium.894a2ede.ttf"
-  },
-  {
     "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
     "url": "/ayna-portfolio/static/media/Roboto-Bold.ecdd509c.eot"
+  },
+  {
+    "revision": "574fd0b50367f886d359e8264938fc37",
+    "url": "/ayna-portfolio/static/media/Roboto-Medium.574fd0b5.woff2"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/ayna-portfolio/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -102,6 +98,10 @@ self.__precacheManifest = [
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
     "url": "/ayna-portfolio/static/media/arrow_right.8ef6a08c.svg"
+  },
+  {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/ayna-portfolio/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
