@@ -44,17 +44,17 @@ const Footer = () => (
         </li>
         <li className="list-inline-item">
           <a href="https://www.facebook.com/aynalem.zewdie" className="p-2 fa-lg w-ic">
-            <MDBIcon icon="facebook" />
+            <MDBIcon  fab icon="facebook-f" />
           </a>
         </li>
         <li className="list-inline-item">
           <a href="https://twitter.com/Aynalem38709427" className="p-2 fa-lg w-ic">
-            <MDBIcon icon="twitter" />
+          <MDBIcon fab icon="twitter" />
           </a>
         </li>
         <li className="list-inline-item">
           <a href="https://www.linkedin.com/in/aynalem-getanhe" className="p-2 fa-lg w-ic">
-            <MDBIcon icon="linkedin" />
+          <MDBIcon fab icon="linkedin-in" />
           </a>
         </li>
         
