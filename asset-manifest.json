@@ -1,19 +1,16 @@
 {
-  "main.css": "/ayna-portfolio/static/css/main.e6c60829.chunk.css",
-  "main.js": "/ayna-portfolio/static/js/main.3e10b3af.chunk.js",
-  "main.js.map": "/ayna-portfolio/static/js/main.3e10b3af.chunk.js.map",
+  "main.css": "/ayna-portfolio/static/css/main.bc14c67c.chunk.css",
+  "main.js": "/ayna-portfolio/static/js/main.e044b555.chunk.js",
+  "main.js.map": "/ayna-portfolio/static/js/main.e044b555.chunk.js.map",
   "runtime~main.js": "/ayna-portfolio/static/js/runtime~main.abb18275.js",
   "runtime~main.js.map": "/ayna-portfolio/static/js/runtime~main.abb18275.js.map",
   "static/css/2.b6e6f161.chunk.css": "/ayna-portfolio/static/css/2.b6e6f161.chunk.css",
-  "static/js/2.9c679077.chunk.js": "/ayna-portfolio/static/js/2.9c679077.chunk.js",
-  "static/js/2.9c679077.chunk.js.map": "/ayna-portfolio/static/js/2.9c679077.chunk.js.map",
+  "static/js/2.dacb4fb0.chunk.js": "/ayna-portfolio/static/js/2.dacb4fb0.chunk.js",
+  "static/js/2.dacb4fb0.chunk.js.map": "/ayna-portfolio/static/js/2.dacb4fb0.chunk.js.map",
   "index.html": "/ayna-portfolio/index.html",
-  "precache-manifest.6216d8b8d452c054240fe84a01357159.js": "/ayna-portfolio/precache-manifest.6216d8b8d452c054240fe84a01357159.js",
+  "precache-manifest.decc2053b979dce78eeec7e3904168ac.js": "/ayna-portfolio/precache-manifest.decc2053b979dce78eeec7e3904168ac.js",
   "service-worker.js": "/ayna-portfolio/service-worker.js",
   "static/css/2.b6e6f161.chunk.css.map": "/ayna-portfolio/static/css/2.b6e6f161.chunk.css.map",
-  "static/css/main.e6c60829.chunk.css.map": "/ayna-portfolio/static/css/main.e6c60829.chunk.css.map",
-  "static/media/mdb.css": "/ayna-portfolio/static/media/arrow_right.8ef6a08c.svg",
-  "static/media/Home.css": "/ayna-portfolio/static/media/background.f0355ed0.jpeg",
-  "static/media/Portfolio.css": "/ayna-portfolio/static/media/code1.1db55392.jpg",
-  "static/media/Contact.css": "/ayna-portfolio/static/media/th.ec39f883.jpg"
+  "static/css/main.bc14c67c.chunk.css.map": "/ayna-portfolio/static/css/main.bc14c67c.chunk.css.map",
+  "static/media/mdb.css": "/ayna-portfolio/static/media/arrow_right.8ef6a08c.svg"
 }
