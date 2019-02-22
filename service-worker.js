@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ayna-portfolio/precache-manifest.decc2053b979dce78eeec7e3904168ac.js"
+  "/ayna-portfolio/precache-manifest.2f3f935db07f0501d39fdf8ebce24231.js"
 );
 
 workbox.clientsClaim();
