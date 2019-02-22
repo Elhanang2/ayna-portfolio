@@ -1,11 +1,13 @@
-/* @import url("https://fonts.googleapis.com/css?family=Crimson+Text"); */
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text");
 .resume-text{
     font-family: 'Crimson Text';
     font-size: 24px;
     /* text-indent: 20px; */
 }
 .resume-top-heading{
-    color: rgb(192, 91, 54);
+    color: rgb(185, 71, 25);
+    font-weight: bold;
+    text-align: center;
 }
 .resume-heading{
     color: rgb(192, 91, 54);

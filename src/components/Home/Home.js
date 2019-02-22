@@ -6,9 +6,9 @@ class Home extends Component {
           render() {
             
               return (
-                <div className="bg home" id="home">
+                <div className="bg home" id="home" >
             
-                  <h1>Aynalem Getanhe</h1> <br/><h2>Web developer  </h2>
+                  <h1 className="home-heading">Aynalem Getanhe</h1> <br/><h2 className="home-heading">Web developer  </h2>
                 </div>
               )
             }

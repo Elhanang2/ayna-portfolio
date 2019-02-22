@@ -8,7 +8,7 @@ class About extends Component {
           <div className="about" id="about">
         
             <MDBMedia className="about-heading" >
-                <h3 className="mt-4 about-heading ">About Me</h3>
+                <h2 className="mt-4 about-heading ">About Me</h2>
             </MDBMedia><br/><br/>
             <MDBRow className="mb-4 about-me">
             
@@ -33,7 +33,7 @@ class About extends Component {
               
             </MDBRow>
             <div className="about-skill" >
-                  <h3 className="mt-4 about-heading ">Skills</h3>
+                  <h2 className="mt-4 about-heading ">Skills</h2>
                 
                 <ul>
                   <li>HTML5</li>

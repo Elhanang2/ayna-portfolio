@@ -21,7 +21,7 @@ class Portfolio extends Component {
     render() { 
         return ( 
             <div id="portfolio" >
-                    <h3 className="mt-4 portfolio-header" >Some Of My Works </h3>
+                    <h2 className="mt-4 portfolio-header" >Some Of My Works </h2>
 
                 
             <MDBContainer className="mt-5">
@@ -39,7 +39,7 @@ class Portfolio extends Component {
                                 alt="burgerImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Dog Log</p>
+                            <p className="img-title " >Dog Log</p>
                             </MDBMask>
                         
                             
@@ -60,7 +60,7 @@ class Portfolio extends Component {
                                 alt="burgerImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Eat-Da-Burger</p>
+                            <p className="img-title " >Eat-Da-Burger</p>
                             </MDBMask>
                         
                         </MDBView>
@@ -83,7 +83,7 @@ class Portfolio extends Component {
                                 alt="friendsImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Friends Finder</p>
+                            <p className="img-title " >Friends Finder</p>
                             </MDBMask>
    
                         </MDBView>
@@ -105,7 +105,7 @@ class Portfolio extends Component {
                                 alt="triviaGameImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Trivia Game (quiz)</p>
+                            <p className="img-title " >Trivia Game (quiz)</p>
                             </MDBMask>
                             
                         </MDBView>
@@ -125,7 +125,7 @@ class Portfolio extends Component {
                                 alt="trainImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Train Scheduler</p>
+                            <p className="img-title " >Train Scheduler</p>
                             </MDBMask>
                             
                         </MDBView>
@@ -145,7 +145,7 @@ class Portfolio extends Component {
                                 alt="cristalImage" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Cristal collector game</p>
+                            <p className="img-title " >Cristal collector game</p>
                             </MDBMask>
                             
                         </MDBView>
@@ -182,7 +182,7 @@ class Portfolio extends Component {
                                 alt="" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Word Guess Game</p>
+                            <p className="img-title " >Word Guess Game</p>
                             </MDBMask>
                             
                         </MDBView>
@@ -203,7 +203,7 @@ class Portfolio extends Component {
                                 alt="" 
                             />
                             <MDBMask className="flex-center">
-                            <p className="orange-text h2 " >Giphy api search</p>
+                            <p className="img-title " >Giphy api search</p>
                             </MDBMask>
                            
                         </MDBView>

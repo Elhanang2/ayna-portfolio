@@ -3,28 +3,19 @@
 .image{
     padding: 0;
     margin: 0;
-   
-   
 }
 #portfolio{
-    background-color: #48466d;
-    
+    background-color: #dad9d6;
 }
 
-.heading{
-    font-weight: bold;
-    margin: auto;
-    
-    font-family:  "Montserrat", sans-serif;
-    /* font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; */
-}
-#portfolio h3{
+#portfolio h2{
     color: white;
-    font-family:  "Montserrat", sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-family:  'Montserrat, sans-serif';
 }
 .portfolio-header{
-    font-family:  "Montserrat", sans-serif;
-    background-image: url("images/code1.jpg");
+    background-image: url("/images/code1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,9 +24,8 @@
       
 }
 
-
 .text-description{
-    font-family: "montstrrat";
+    font-family: 'montstrrat';
     background-color: #6cbbb3;
     margin-top: 0px;
     padding: 30px;
@@ -44,10 +34,19 @@
 .text-description button{
     border-radius: 10px;
     border:none;
+    background-color: #cecac1;
 }
-.text-description button:hover{
-    color: red;
+ button:hover{
+    color: white;
+    background-color: rgb(146, 202, 202);
 }
 .box{
     margin-bottom: 30px;
+}
+.img-title{
+    font-family: 'montstrrat, sans-serif';
+    font-size: 34px; 
+    /* background-color: #000000; */
+    color: white;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #000000, 0 0 70px #000000, 0 0 80px #000000, 0 0 100px #000000, 0 0 150px #000000;
 }

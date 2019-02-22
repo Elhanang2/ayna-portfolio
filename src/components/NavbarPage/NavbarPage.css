@@ -1,4 +1,6 @@
-
+.nav-link a{
+  color: white;
+}
 .navbar {
   background-color: transparent;
 }
