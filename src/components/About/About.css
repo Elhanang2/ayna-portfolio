@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
 .about{
-    padding: 60px 20px 60px 30px;  
+    padding: 0px 20px 60px 30px;  
     background-color: #f0e47c;
     overflow: hidden;
+    /* margin:0; */
+    /* padding:0; */
+}
+.about-me img{
+    display: block;
+    margin:auto;
 }
 .about-heading , h2{
     color: black; 
@@ -11,7 +17,7 @@
     margin: auto;
     font-weight: bold;
     font-size: 30px !important;
-    
+       
 }
 .about-text{
     font-size: 26px;

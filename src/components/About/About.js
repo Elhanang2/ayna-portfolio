@@ -12,11 +12,11 @@ class About extends Component {
             </MDBMedia><br/><br/>
             <MDBRow className="mb-4 about-me">
             
-              <MDBCol md="3">
+              <MDBCol sm="12" md="12" lg="3">
                 <img src="images/portfolio.jpg" style={{width:"200px", height:"200px"}} className="rounded float-left" alt="myimage" />
                 
               </MDBCol>
-              <MDBCol md="9" className="about-text">
+              <MDBCol sm="12" md="12" lg="9" className="about-text">
                 <p>My name is Aynalem and I am a Full stack web developer with experiance in aerospace NDT inspector.
                   Since starting the Full Stack Web Development Bootcamp at UCLA, 
                   I’ve come to appreciate every stage in the process of creating a client-side app,
@@ -33,7 +33,7 @@ class About extends Component {
               
             </MDBRow>
             <div className="about-skill" >
-                  <h2 className="mt-4 about-heading ">Skills</h2>
+                  <h2 className="about-heading ">Skills</h2>
                 
                 <ul>
                   <li>HTML5</li>
