@@ -9,15 +9,17 @@ body, html {
         
     }
     .home {
+        padding: 20px;
         background-image: url("/images/background.png");
-        height: 90vh;
+        width: 100%;
+        height: 95vh;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment:fixed;
                 
     }
-    h1 , h2{
+    h1 , h6{
         
         padding-top:60px;
         text-align: center;
@@ -25,8 +27,14 @@ body, html {
     }
     h1{
         padding-top: 130px;
+        font-size: 80px;
+    }
+    h6 {
+        
+       font-size: 60px; 
     }
     .home-heading{
         font-family:  'Montserrat, sans-serif';
         font-weight: bold;
+        
     }

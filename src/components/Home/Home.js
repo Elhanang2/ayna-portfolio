@@ -8,7 +8,7 @@ class Home extends Component {
               return (
                 <div className="bg home" id="home" >
             
-                  <h1 className="home-heading">Aynalem Getanhe</h1> <br/><h2 className="home-heading">Web developer  </h2>
+                  <h1 className="home-heading">Aynalem Getanhe</h1> <h6 className="home-heading">Web developer  </h6>
                 </div>
               )
             }
