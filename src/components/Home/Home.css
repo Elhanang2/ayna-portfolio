@@ -24,7 +24,7 @@ h1, h6{
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
-    background-image: inherit;
+    background-image: url("/images/background.png");
     background-attachment: fixed;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
