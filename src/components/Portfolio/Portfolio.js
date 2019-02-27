@@ -176,7 +176,7 @@ class Portfolio extends Component {
                         <MDBView  hover zoom >
                             {/*<p className="text-center"><strong>Shadow effect</strong></p>*/}
                             <img
-                                src="images/wordGuess.jpg"
+                                src="images/wordguess1.jpg"
                                 className="img-fluid image  "
                                 style={{width:"100%", height:"200px"}}
                                 alt="" 
