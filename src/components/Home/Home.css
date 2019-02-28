@@ -34,7 +34,7 @@ h1, h6{
 h6{
     font-size: 4em;
 }
-h1::before{
+h1::after{
     content: attr(data-text);
     position: absolute;
     top: 0;
@@ -46,7 +46,7 @@ h1::before{
     -25px 10px 50px #000;
     
 }
-h6::before{
+h6::after{
     content: attr(data-text);
     position: absolute;
     top: 0;
