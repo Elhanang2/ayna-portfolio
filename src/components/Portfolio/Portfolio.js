@@ -91,7 +91,7 @@ class Portfolio extends Component {
                             <p>Friend finder app is designed to finds friends.
                              This full stack site will take in results from users surveys,
                               then compare there answer with other users and display the name and picture of the user with best overall match. </p>
-                            <button><a href="https://fast-crag-98576.herokuapp.com/">Live</a></button>
+                            <button><a href="https://friends-finder-ayna.herokuapp.com/">Live</a></button>
                         </div>
                     </MDBCol>
 

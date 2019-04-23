@@ -29,22 +29,22 @@ class NavbarPage extends React.Component {
           <Router>
             <MDBNavbar className="navbar-default"  color="blue-grey darken-4" fixed="top" dark expand="md" scrolling >
               <MDBNavbarBrand to="/">
-                <strong > <a style={{color:"white",fontSize:"24px"}}  href="#home">Aynalem Getanhe</a></strong>
+                <strong > <a style={{color:"white",fontSize:"26px"}}  href="#home">Aynalem Getanhe</a></strong>
               </MDBNavbarBrand>
               {!this.state.isWideEnough && <MDBNavbarToggler onClick={this.onClick} />}
               <MDBCollapse isOpen={this.state.collapse} navbar>
                 <MDBNavbarNav right>
                   <MDBNavbarBrand  to="/about" >
-                    <a style={{color:"white", fontSize:"18px"}}  href="#about">About</a>
+                    <a   href="#about">About</a>
                   </MDBNavbarBrand>
                   <MDBNavbarBrand  to="/portfolio">
-                  <a style={{color:"white", fontSize:"18px"}} href="#portfolio">Portfolio</a>
+                  <a  href="#portfolio">Portfolio</a>
                   </MDBNavbarBrand>
                   <MDBNavbarBrand  to="/contact">
-                    <a style={{color:"white", fontSize:"18px"}} href="#contact">Contact</a>
+                    <a  href="#contact">Contact</a>
                   </MDBNavbarBrand>
                   <MDBNavbarBrand to="/resume">
-                    <a style={{color:"white", fontSize:"18px"}} href="/resume">Resume</a>
+                    <a  href="/resume">Resume</a>
                   </MDBNavbarBrand>
     
                 </MDBNavbarNav>

@@ -16,6 +16,9 @@
     background-size: cover;
     z-index: -2;
 }
+#home::after{
+    /* background-color: aqua; */
+}
 h1, h6{
     position: relative;
     margin: 0;

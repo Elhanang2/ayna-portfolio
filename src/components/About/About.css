@@ -12,7 +12,8 @@
 }
 .about-heading {
     color: rgb(129, 20, 20); 
-    font-family:  'Montserrat, sans-serif';
+    /* font-family: 'Tangerine', serif; */
+    text-shadow: 2px 2px 4px #1a1508;
     text-align: center;
     margin: auto;
     font-weight: bold;
@@ -35,12 +36,12 @@
     float: left;
     text-decoration: none;
     font-size: 28px;
-    font-family: 'Montserrat, sans-serif';
+    font-family: 'Montserrat',serif;
     color: rgb(112, 43, 18);
 }
 .about-skill h2{
     clear: both;
-    font-family: 'Montserrat, sans-serif';
+    font-family: 'Montserrat', serif;
     padding-bottom: 20px;
     font-weight: bold;
     text-align: center;

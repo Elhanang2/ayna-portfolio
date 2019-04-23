@@ -9,7 +9,7 @@ const Footer = () => (
     <MDBCardBody className="footer2">
       <ul className="list-inline text-center list-unstyled footer2" lg="6" sm="12">
         <li className="list-inline-item">
-          <a href="tel:323-593-0195" className="p-2 fa-lg w-ic">
+          <a href="tel:+1323-593-0195" className="p-2 fa-lg w-ic">
             <MDBIcon icon="phone" />  
           </a>
         </li>

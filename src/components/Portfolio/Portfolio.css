@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googleapis.com/css?family=Montserrat:400,600"); */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
 
 .image{
     padding: 0;
@@ -15,7 +15,8 @@
     color: white;
     text-align: center;
     font-weight: bold;
-    font-family:  'Montserrat, sans-serif';
+    font-family: 'Montserrat', serif;
+    text-shadow: 3px 3px 4px #1a1508;
 }
 .portfolio-header{
     background-image: url("/images/code1.jpg");
@@ -38,11 +39,15 @@
 .text-description button{
     border-radius: 10px;
     border:none;
-    background-color: #cecac1;
+    
+    background-color: rgb(118, 146, 199);
+}
+.text-description button a{
+    /* color: red; */
 }
  button:hover{
     color: white;
-    background-color: rgb(146, 202, 202);
+    background-color: #cecac1;
 }
 .box{
     margin-bottom: 30px;
