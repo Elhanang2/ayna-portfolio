@@ -208,7 +208,7 @@ class Portfolio extends Component {
                            
                         </MDBView>
                         <div className="text-description">
-                            <p >This app uses the Giphy API and jQuery to retrieve and show gifs dynamically.and also to add gifs button.</p>
+                            <p >This app uses the Giphy API and jQuery to retrieve and show gifs dynamically and also to add gifs button.</p>
                             <button><a href="https://elhanang2.github.io/GIPHYrepo/">Live</a></button>
                         </div>
                     </MDBCol>
